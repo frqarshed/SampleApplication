@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.30885416666666665" />
+        <entry key="presentation/src/main/res/drawable/ic_arrow.xml" value="0.201" />
+        <entry key="presentation/src/main/res/drawable/ic_no_internet.xml" value="0.249" />
+        <entry key="presentation/src/main/res/drawable/image_item.xml" value="0.147" />
+        <entry key="presentation/src/main/res/drawable/loading_spinner.xml" value="0.147" />
+        <entry key="presentation/src/main/res/layout/all_movies_fragment.xml" value="0.1" />
+        <entry key="presentation/src/main/res/layout/details_fragment.xml" value="0.25" />
+        <entry key="presentation/src/main/res/layout/image_item.xml" value="0.1" />
+        <entry key="presentation/src/main/res/layout/item.xml" value="0.3399703979492188" />
+        <entry key="presentation/src/main/res/layout/item_ad.xml" value="0.28931427001953125" />
+        <entry key="presentation/src/main/res/layout/item_all_film.xml" value="0.1457743326822917" />
+        <entry key="presentation/src/main/res/layout/item_character.xml" value="0.28229166666666666" />
+        <entry key="presentation/src/main/res/layout/item_film.xml" value="0.1" />
+        <entry key="presentation/src/main/res/layout/item_planet.xml" value="0.45" />
+        <entry key="presentation/src/main/res/layout/listing_fragment.xml" value="0.13697916666666668" />
+        <entry key="presentation/src/main/res/layout/main_activity.xml" value="0.1" />
+        <entry key="presentation/src/main/res/layout/main_fragment.xml" value="0.170843505859375" />
+        <entry key="presentation/src/main/res/layout/main_task_fragment.xml" value="0.45" />
+        <entry key="presentation/src/main/res/layout/no_internet_layout.xml" value="0.182518115942029" />
+        <entry key="presentation/src/main/res/layout/task_1_fragment.xml" value="0.13697916666666668" />
+        <entry key="presentation/src/main/res/layout/task_2_fragment.xml" value="0.1" />
+        <entry key="presentation/src/main/res/layout/task_3_fragment.xml" value="0.1" />
+        <entry key="presentation/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="presentation/src/main/res/menu/menu_test.xml" value="0.13697916666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
